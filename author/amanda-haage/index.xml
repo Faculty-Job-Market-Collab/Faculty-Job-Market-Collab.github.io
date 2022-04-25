@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Amanda Haage | Faculty Job Market Collaboration</title>
+    <link>https://Faculty-Job-Market-Collab.github.io/author/amanda-haage/</link>
+      <atom:link href="https://Faculty-Job-Market-Collab.github.io/author/amanda-haage/index.xml" rel="self" type="application/rss+xml" />
+    <description>Amanda Haage</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 25 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://Faculty-Job-Market-Collab.github.io/author/amanda-haage/avatar_hue87846b939f6d515cd2d9a93671a2428_30119_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Amanda Haage</title>
+      <link>https://Faculty-Job-Market-Collab.github.io/author/amanda-haage/</link>
+    </image>
+    
+    <item>
+      <title>We Submitted Our Second Manuscript!</title>
+      <link>https://Faculty-Job-Market-Collab.github.io/news/22-04-05-submit/</link>
+      <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://Faculty-Job-Market-Collab.github.io/news/22-04-05-submit/</guid>
+      <description>&lt;p&gt;&amp;ldquo;The U.S. academic job market survives the SARS-CoV-2 global pandemic&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Our second paper analyzing the availability of academic positions and the response of applicants early and midway through the pandemic. It is currently under review at &lt;em&gt;Science&lt;/em&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The U.S. academic job market survives the SARS-CoV-2 global pandemic</title>
+      <link>https://Faculty-Job-Market-Collab.github.io/publication/kozik-science-2022/</link>
+      <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://Faculty-Job-Market-Collab.github.io/publication/kozik-science-2022/</guid>
+      <description>&lt;p&gt;Under review at &lt;em&gt;Science&lt;/em&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Research Culture: A survey-based analysis of the academic job market</title>
+      <link>https://Faculty-Job-Market-Collab.github.io/publication/fernandes-elife-2020/</link>
+      <pubDate>Fri, 12 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://Faculty-Job-Market-Collab.github.io/publication/fernandes-elife-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

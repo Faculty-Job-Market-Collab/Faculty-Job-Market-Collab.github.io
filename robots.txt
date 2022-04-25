@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://Faculty-Job-Market-Collab.github.io/sitemap.xml

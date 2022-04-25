@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chris Smith | Faculty Job Market Collaboration</title>
+    <link>https://Faculty-Job-Market-Collab.github.io/author/chris-smith/</link>
+      <atom:link href="https://Faculty-Job-Market-Collab.github.io/author/chris-smith/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chris Smith</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 05 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://Faculty-Job-Market-Collab.github.io/author/chris-smith/avatar_hu389d87d37405b95245503cb92f90a667_226906_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Chris Smith</title>
+      <link>https://Faculty-Job-Market-Collab.github.io/author/chris-smith/</link>
+    </image>
+    
+    <item>
+      <title>The U.S. academic job market survives the SARS-CoV-2 global pandemic</title>
+      <link>https://Faculty-Job-Market-Collab.github.io/publication/kozik-science-2022/</link>
+      <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://Faculty-Job-Market-Collab.github.io/publication/kozik-science-2022/</guid>
+      <description>&lt;p&gt;Under review at &lt;em&gt;Science&lt;/em&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Research Culture: A survey-based analysis of the academic job market</title>
+      <link>https://Faculty-Job-Market-Collab.github.io/publication/fernandes-elife-2020/</link>
+      <pubDate>Fri, 12 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://Faculty-Job-Market-Collab.github.io/publication/fernandes-elife-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
