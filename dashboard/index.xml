@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Explore Our Data | Faculty Job Market Collaboration</title>
+    <link>https://Faculty-Job-Market-Collab.github.io/dashboard/</link>
+      <atom:link href="https://Faculty-Job-Market-Collab.github.io/dashboard/index.xml" rel="self" type="application/rss+xml" />
+    <description>Explore Our Data</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://Faculty-Job-Market-Collab.github.io/media/icon_hu50396449da319a1bcb5c4dfe6c654aee_14656_512x512_fill_lanczos_center_3.png</url>
+      <title>Explore Our Data</title>
+      <link>https://Faculty-Job-Market-Collab.github.io/dashboard/</link>
+    </image>
+    
+  </channel>
+</rss>
